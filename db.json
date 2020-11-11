@@ -1,0 +1,87 @@
+[
+    {
+        "exercicie":"Meditation",
+        "quantity":20,
+        "duration":50,
+        "wallpaper":"https://i.pinimg.com/originals/94/67/7b/94677bc4469b1ac668c35d7f9ed8b503.png",
+        "color":"#c56cf0",
+        "exercicies":[
+            {
+                "title":"Lorem ipsun",
+                "subTitle":"Sit dolor amet",
+                "nivel":"Begginer",
+                "duration":"15 Min",
+                "image":"https://i.pinimg.com/originals/31/0a/71/310a710663da945efef96798caaf803c.png"
+            }
+        ]
+    },
+    {
+        "exercicie":"Cardio",
+        "quantity":10,
+        "duration":30,
+        "wallpaper":"https://cdn.iconscout.com/icon/premium/png-512-thumb/cardio-exercise-607930.png",
+        "color":"#20bf6b",
+        "exercicies":[
+            {
+                "title":"Lorem ipsun",
+                "subTitle":"Sit dolor amet",
+                "nivel":"Begginer",
+                "duration":"15 Min",
+                "image":"https://i.pinimg.com/originals/31/0a/71/310a710663da945efef96798caaf803c.png"
+            }
+        ]
+    },
+    {
+        "exercicie":"Pilates",
+        "quantity":100,
+        "duration":10,
+        "wallpaper":"https://storage.builderall.com//franquias/2/291027/editor-html/5581594.png",
+        "color":"#3867d6",
+        "exercicies":[
+            {
+                "title":"Lorem ipsun",
+                "subTitle":"Sit dolor amet",
+                "nivel":"Begginer",
+                "duration":"15 Min",
+                "image":"https://i.pinimg.com/originals/31/0a/71/310a710663da945efef96798caaf803c.png"
+            },
+            {
+                "title":"Lorem ipsun2",
+                "subTitle":"Sit dolor amet",
+                "nivel":"Begginer",
+                "duration":"15 Min",
+                "image":"https://i.pinimg.com/originals/31/0a/71/310a710663da945efef96798caaf803c.png"
+            }
+        ]
+    },
+    {
+        "exercicie":"BodyBuilder",
+        "quantity":10,
+        "duration":50,
+        "wallpaper":"https://clipart.coolclips.com/480/vectors/tf05143/CoolClips_vc003618.png",
+        "color":"#4b6584",
+        "exercicies":[
+            {
+                "title":"Lorem ipsun",
+                "subTitle":"Sit dolor amet",
+                "nivel":"Begginer",
+                "duration":"15 Min",
+                "image":"https://i.pinimg.com/originals/31/0a/71/310a710663da945efef96798caaf803c.png"
+            },
+            {
+                "title":"Lorem ipsun2",
+                "subTitle":"Sit dolor amet",
+                "nivel":"Begginer",
+                "duration":"15 Min",
+                "image":"https://i.pinimg.com/originals/31/0a/71/310a710663da945efef96798caaf803c.png"
+            },
+            {
+                "title":"Lorem ipsun3",
+                "subTitle":"Sit dolor amet",
+                "nivel":"Begginer",
+                "duration":"15 Min",
+                "image":"https://i.pinimg.com/originals/31/0a/71/310a710663da945efef96798caaf803c.png"
+            }
+        ]
+    }
+]
