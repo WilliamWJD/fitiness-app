@@ -1,24 +1,12 @@
-<style>
-    .teste{
-        display:flex;
-        flex-direction:row
-    }
-
-    .teste img{
-        width:300px;
-        margin-left:5px
-    }
-</style>
-
 <h1 align="center">Fitness App</h1>
 
 ## 💻 O Projeto
 Projeto desenvolvido para praticar minhas habilidades React Native.
 
 <h1 align="center" class="teste">
-  <img src="./images/1.jpeg"/>
-  <img src="./images/2.jpeg"/>
-  <img src="./images/3.jpeg"/>
+  <img src="./images/1.jpeg" width=250/>
+  <img src="./images/2.jpeg" width=250/>
+  <img src="./images/3.jpeg" width=250/>
 </h1>
 
 
