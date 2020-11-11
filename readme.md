@@ -1,3 +1,15 @@
+<style>
+    .teste{
+        display:flex;
+        flex-direction:row
+    }
+
+    .teste img{
+        width:300px;
+        margin-left:5px
+    }
+</style>
+
 <h1 align="center">Fitness App</h1>
 
 ## 💻 O Projeto
@@ -24,14 +36,3 @@ Design feito por [Behnaz Omidvar](https://dribbble.com/shots/9651346-Personal-Tr
 
 Desenvolvido por [William José Dias!](https://github.com/WilliamWJD)
 
-<style>
-    .teste{
-        display:flex;
-        flex-direction:row
-    }
-
-    .teste img{
-        width:300px;
-        margin-left:5px
-    }
-</style>
